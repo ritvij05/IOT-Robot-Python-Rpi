@@ -2,11 +2,11 @@
 IOT Project On Industrial Transport Vehicle Using Raspberry-pi In Python
 
 Components:	
-●	IR sensors *2
-●	Ultrasonic Sensors *1
-●	Motor Controller *1
-●	Wheels *4
-●	Motors for wheel *4
-●	Servo Motor * 2
-●	Batteries
-●	Base for placing all components
+1. IR sensors *2
+2. Ultrasonic Sensors *1
+3. Motor Controller *1
+4. Wheels *4
+5. Motors for wheel *4
+6. Servo Motor * 2
+7. Batteries
+8. Base for placing all components
