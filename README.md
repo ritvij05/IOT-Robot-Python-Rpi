@@ -10,3 +10,4 @@ Components:
 6. Servo Motor * 2
 7. Batteries
 8. Base for placing all components
+9. Rpi (model 3b+ is used in this project)
